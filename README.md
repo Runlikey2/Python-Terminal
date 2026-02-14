@@ -19,3 +19,5 @@ A simple, text-based terminal interface written in Python. I wanted to see if I 
     Editor: I'm currently working on a built-in Python file editor.
 
     Dependencies: None! Just standard Python for now.
+
+    Operating System: Windows only as i didn't think of releasing it.
