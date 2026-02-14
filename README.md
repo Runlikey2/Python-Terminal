@@ -21,3 +21,7 @@ A simple, text-based terminal interface written in Python. I wanted to see if I 
     Dependencies: None! Just standard Python for now.
 
     Operating System: Windows only as i didn't think of releasing it.
+
+    Security: Needs redoing to make it secure might remove if its too much.
+
+    Logon: Adding support for adding users and passwords with permsissons in the near future.
