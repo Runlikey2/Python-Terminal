@@ -1,4 +1,4 @@
-Python-Terminal (WIP)
+ # Python-Terminal (WIP)
 
 This is a personal project I’m building for fun. It’s definitely a work in progress and not meant for anything beyond a example to base your own off of use, but feel free to poke around the code.
 💡 What is this?
